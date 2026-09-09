@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Untitled</title>
-    <link>https://sebastienrousseau.com/go-config</link>
-    <description></description>
+    <title>@sebastienrousseau/go-config — Shareable Go configuration standards for golangci-lint, staticcheck, and revive.</title>
+    <link>https://sebastienrousseau.com/go-config/</link>
+    <description>Shareable Go configuration providing standardized golangci-lint, staticcheck, and revive rules adhering to modern 2026 standards.</description>
     <atom:link href="https://sebastienrousseau.com/go-config/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+    <copyright>© 2026 Sebastien Rousseau. Licensed under Apache-2.0 OR MIT.</copyright>
     <item>
       <title>Installation — @sebastienrousseau/go-config</title>
       <link>https://sebastienrousseau.com/go-config/installation/</link>
