@@ -5,7 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
-Shareable Go configuration providing standardized golangci-lint, staticcheck, and revive rules adhering to modern 2026 standards.
+Shareable Go configuration standards providing hardened golangci-lint, staticcheck, and revive rules.
 
 ---
 
@@ -18,3 +18,15 @@ Shareable Go configuration providing standardized golangci-lint, staticcheck, an
 | `index.d.ts` | TypeScript | TypeScript >= 5.0 | Type declarations |
 
 ---
+
+## Feature & Property Reference
+
+### 1. .golangci.yml
+- **Description**: Production-grade golangci-lint suite enabling gosec, errcheck, staticcheck, revive, and gocyclo.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
+
+### 2. staticcheck.conf
+- **Description**: Staticcheck configuration enforcing standard library idiomatic conventions.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
