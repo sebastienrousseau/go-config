@@ -1,0 +1,65 @@
+{
+  "feed_url": "https://sebastienrousseau.com/go-config/feed.json",
+  "home_page_url": "https://sebastienrousseau.com/go-config/",
+  "items": [
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to install and set up @sebastienrousseau/go-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/go-config/installation/",
+      "tags": [],
+      "title": "Installation — @sebastienrousseau/go-config",
+      "url": "https://sebastienrousseau.com/go-config/installation/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Model Context Protocol configuration for @sebastienrousseau/go-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/go-config/mcp/",
+      "tags": [],
+      "title": "Model Context Protocol (MCP) — @sebastienrousseau/go-config",
+      "url": "https://sebastienrousseau.com/go-config/mcp/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Reference specifications and options for @sebastienrousseau/go-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/go-config/reference/",
+      "tags": [],
+      "title": "Reference — @sebastienrousseau/go-config",
+      "url": "https://sebastienrousseau.com/go-config/reference/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to use and configure @sebastienrousseau/go-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/go-config/usage/",
+      "tags": [],
+      "title": "Usage — @sebastienrousseau/go-config",
+      "url": "https://sebastienrousseau.com/go-config/usage/"
+    }
+  ],
+  "language": "en-GB",
+  "title": "go-config",
+  "version": "https://jsonfeed.org/version/1.1"
+}

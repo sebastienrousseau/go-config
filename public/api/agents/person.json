@@ -1,0 +1,6 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "go-config",
+  "url": "https://sebastienrousseau.com/go-config"
+}
