@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .golangci.yml
+
 Production-grade golangci-lint suite enabling gosec, errcheck, staticcheck, revive, and gocyclo. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. staticcheck.conf
+
 Staticcheck configuration enforcing standard library idiomatic conventions. Designed to guarantee deterministic behavior across all development and continuous integration environments.
