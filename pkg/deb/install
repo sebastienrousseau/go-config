@@ -1,0 +1,9 @@
+index.js usr/share/nodejs/@sebastienrousseau/go-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/go-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/go-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/go-config/
+.golangci.yml usr/share/nodejs/@sebastienrousseau/go-config/
+staticcheck.conf usr/share/nodejs/@sebastienrousseau/go-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/go-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/go-config/
+package.json usr/share/nodejs/@sebastienrousseau/go-config/
