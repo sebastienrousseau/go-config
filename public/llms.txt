@@ -1,5 +1,0 @@
-# go-config
-
-> Shareable Go configuration providing standardized golangci-lint, staticcheck, and revive rules adhering to modern 2026 standards.
-
-Language: en-GB
