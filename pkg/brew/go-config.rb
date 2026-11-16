@@ -6,7 +6,7 @@
 class GoConfig < Formula
   desc "Shareable Go configuration providing standardized golangci-lint, staticcheck, and revive rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/go-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/go-config/-/go-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/go-config/-/go-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
